@@ -13,6 +13,7 @@ The data contains the following columns:
 'Address': Address for the house
 
 Machine Learning Model: Linear Regression
+
 Results:
 
 R-squared (uncentered):	0.967
